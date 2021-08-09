@@ -1,5 +1,5 @@
 # Proyectos Acamica - Cerrera de DataScience 2021
-Se crea el siguiente repositorio con la intención de compartir los 4 proyectos elaborados a lo largo de la carrera de Data Science, que dicta [Acamica](https://www.acamica.com/).
+Se crea el siguiente repositorio con la intención de compartir los 4 proyectos elaborados a lo largo de la carrera de [Data Science](https://www.acamica.com/data-science), que dicta [Acamica](https://www.acamica.com/).
 
 ## *Proyecto 1*
 En este primer proyecto se realiza una abordaje inicial sobre una problemática planteada, haciendo hincapié en al análisis exploratorio del Dataset, y proponiendo un modelo básico de Clasificación.
